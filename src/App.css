@@ -28,6 +28,18 @@ p{
   text-indent:20px;
 }
 
+.nobullets{
+  list-style: none;
+  margin-top: 30px; 
+}
+
+.nobullets a{
+
+  color: #194821;
+}
+
+
+
 
 /* .App {
   text-align: center;
