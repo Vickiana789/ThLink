@@ -1,0 +1,26 @@
+.navbar a{
+    /* color: darkslategray; */
+    padding-right: 1em;
+  }
+  
+  .navbar a:active {
+    color: rgb(110, 224, 16);
+  }
+  
+  .navbar li {
+    display: inline-block;
+    list-style: none;
+  }
+  
+  .navbar {
+    text-indent: 0;
+    padding-left: 0;
+    margin-left: 0;
+    text-align: right; 
+    color: white;
+    padding-top: 20px;
+   padding-bottom: 20px;
+font-weight: bold;
+    background-image: url(chalkback.jpg)
+  }
+
